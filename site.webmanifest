@@ -1,6 +1,6 @@
 {
-    "name": "Time Feel",
-    "short_name": "Time Feel",
+    "name": "⠀",
+    "short_name": "⠀",
     "icons": [
         {
             "src": "./android-chrome-192x192.png",
@@ -14,7 +14,7 @@
         }
     ],
     "start_url": "./index.html",
-    "theme_color": "#000000",
-    "background_color": "#000000",
+    "theme_color": "#c99dca",
+    "background_color": "#c99dca",
     "display": "standalone"
 }
